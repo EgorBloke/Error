@@ -1,0 +1,9 @@
+9 9 1828 Tolstoy L.N.
+6 6 1799 Pushkin A.S.
+15 10 1814 Lermontov M.Y.
+13 2 1769 Krilov I.A.
+28 10 1818 Turgenev I.S.
+19 11 1711 Lomonosov M.V.
+28 3 1868 Gorkii A.M.
+11 11 1821 Dostoevskiy F.M.
+24 5 1905 Sholohov M.A.
